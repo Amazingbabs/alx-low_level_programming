@@ -1,9 +1,9 @@
-#include <main.h>
+#include "main.h"
 
 /**
- * main - Write a program that prints putchar, followed by a new line.
+ * main - Entry point of my code,
  *
- * Return: Always 0 (Success)
+ * Return: Always 0
  */
 
 int main(void)
